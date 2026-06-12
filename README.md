@@ -2,7 +2,7 @@
 
 **Frontend Developer | UI/UX Enthusiast | Web Designer**
 
- *"Building efficient, scalable, and maintainable software while continuously expanding my skills."*
+*Always learning, always building — one component at a time.✨*
 
 ---
 
