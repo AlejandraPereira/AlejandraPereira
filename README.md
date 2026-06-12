@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Alejandra Pereira
+# Hi there 👋 I'm Alejandra
 
 **Frontend Developer | UI/UX Enthusiast | Web Designer**
 
@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-Frontend developer with a passion for building clean, modern websites and obsessed with the details that make a great user experience. I love turning complex problems into simple, effective solutions. When I'm not coding, you'll find me exploring new design trends or enjoying a good cup of coffee ☕
+Frontend developer with a passion for building clean, modern websites and obsessed with the details that make a great user experience. I love turning complex problems into simple, effective solutions. When I am not coding, you will find me exploring new design trends or enjoying a good cup of coffee ☕
 
 ---
 
