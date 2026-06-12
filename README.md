@@ -1,9 +1,10 @@
 <div align="center"> 
-# Hi there 👋 I'm Alejandra
+## Hi there 👋 I'm Alejandra
 </div>
 
+<div align="center"> 
 **Frontend Developer | UI/UX Enthusiast | Web Designer**
-
+</div>
 *Always learning, always building — one component at a time.✨*
 
 ---
