@@ -1,4 +1,6 @@
+<div align="center"> 
 # Hi there 👋 I'm Alejandra
+</div>
 
 **Frontend Developer | UI/UX Enthusiast | Web Designer**
 
